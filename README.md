@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="버튼을 눌렀을 때 이동할 링크" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-FFFFFF?style=flat&logo=Velog&logoColor=20C997"/></a>
+<hr />
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-FFFFFF?style=flat&logo=python&logoColor=3776AB"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat&logo=JavaScript&logoColor=F7DF1E"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C/C++-FFFFFF?style=flat&logo=C&logoColor=00599C"/></a>
