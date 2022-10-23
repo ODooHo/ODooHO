@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C/C++-FFFFFF?style=flat&logo=C&logoColor=00599C"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML/CSS-FFFFFF?style=flat&logo=HTML5&logoColor=E34F26"/></a>
 
-![DooHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ODooHo&show_icons=true&theme=radical)
+![DooHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ODooHo&show_icons=true&theme=swift)
