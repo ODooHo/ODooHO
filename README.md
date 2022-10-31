@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-FFFFFF?style=flat&logo=Velog&logoColor=20C997"/></a>
 <hr />
 <a href = "" target="_blank"><img src = "https://img.shields.io/badge/python-FFFFFF?style=for-the-badge&logo=python&logoColor=FFDD54/"></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C/C++-FFFFFF?style=for-the-badge&logo=C&logoColor=00599C"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML/CSS-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=java&logoColor=00599C"/></a>
