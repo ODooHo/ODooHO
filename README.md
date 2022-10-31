@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C/C++-FFFFFF?style=for-the-badge&logo=C&logoColor=00599C"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/HTML/CSS-FFFFFF?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=java&logoColor=00599C"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 <hr />
 
 ![DooHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ODooHo&show_icons=true&theme=swift)
