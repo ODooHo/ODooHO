@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-FFFFFF?style=flat&logo=Velog&logoColor=20C997"/></a>
 <hr />
 <a href = "" target="_blank"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
