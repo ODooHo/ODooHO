@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-FFFFFF?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
+<a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-E6E6E6?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
 <hr />
 <a href = "" target="_blank"><img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
