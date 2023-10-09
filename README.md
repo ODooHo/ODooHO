@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-E6E6E6?style=for-the-badge&logo=Velog&logoColor=20C997"/></a>
-<a href="https://doohopp.notion.site/c4ed26832dfe418cac420e32272a529f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://doohopp.notion.site/c4ed26832dfe418cac420e32272a529f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
 <hr />
 <a href = "" target="_blank"><img src = "https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"></a>
