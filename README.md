@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
         <a href="https://velog.io/@dhengh0205">
-        <img src="https://img.shields.io/badge/
-        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-        <a href="https://velog.io/@bi-sz">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
         <a href="https://doohopp.notion.site/c4ed26832dfe418cac420e32272a529f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
