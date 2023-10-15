@@ -13,6 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;"><a href="https://velog.io/@dhengh0205">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://doohopp.notion.site/c4ed26832dfe418cac420e32272a529f?pvs=4">
+        <img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
+    </a>
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dhengh0205)](https://github.com/dhengh0205/velog-readme-stats)
+</div>
+<br>
 <a href="https://velog.io/@dhengh0205" target="https://velog.io/@dhengh0205"><img src="https://img.shields.io/badge/TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://doohopp.notion.site/c4ed26832dfe418cac420e32272a529f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 
