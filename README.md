@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <div style="display:flex; flex-direction:row;">
-<h1>Stats!</h1>
+<h1>🌱 STATS</h1>
 
 ![DooHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ODooHo&show_icons=true&theme=swift) 
 
