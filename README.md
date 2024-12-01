@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,react,vue)](https://skillicons.dev)
 
 
-<hr />
-
 <div style="display:flex; flex-direction:row;">
 <h1>Stats!</h1>
 
